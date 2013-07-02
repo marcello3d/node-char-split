@@ -1,7 +1,7 @@
 char-split
 =================
 
-Splits an stream on a character (e.g. \\n) and emits the strings in between
+Splits a string stream on a character (e.g. \\n) and emits the strings in between.
 
 Install
 -------
@@ -33,7 +33,7 @@ stream.pipe(
 Optional arguments:
 
 ```js
-split(character = '\n', encoding = 'utf8')
+split(character = '\n')
 ```
 
 Notes
