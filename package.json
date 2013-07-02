@@ -1,6 +1,6 @@
 {
   "name": "char-split",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "splits an stream on a character (e.g. \\n) and emits the strings in between",
   "main": "index.js",
   "scripts": {
